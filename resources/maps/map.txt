@@ -1,0 +1,14 @@
+0---w:sword:1:10:true,e1
+1---h:potion:0:10:true,w0,s4
+2---w:gun:20:0:true,w1,s5
+3,s6
+4-10000-GOAL ROOM-h:snack:0:5:false
+5,n2,s9
+6---w:pen:5:0:false,s10,n3
+7---h:life saver:0:20:true,e8,s11
+8,w7,e9
+9,n5,w8,s13
+10,n6,e11
+11,e12,n7,w10
+12,w11,n8
+13,w12
